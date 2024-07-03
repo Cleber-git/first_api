@@ -124,6 +124,7 @@ pytz==2023.3
 pywhatkit==5.4
 pyxdg==0.27
 PyYAML==6.0.1
+qiniu==7.13.2
 qrcode==7.3.1
 requests==2.31.0
 requests-pkcs12==1.13
@@ -158,6 +159,7 @@ tzdata==2023.3
 ultralytics==8.1.43
 unattended-upgrades==0.1
 update==0.0.1
+upload==0.1.1
 urllib3==1.26.5
 webencodings==0.5.1
 werkzeug==2.3.7

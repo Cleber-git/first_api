@@ -11,6 +11,7 @@ def home():
 
 @app.route('/data')
 def getData():
+
     data = {
     'nome': 'Cleber',
     'idade': 22,
@@ -34,7 +35,7 @@ def getData():
     data4 = {
     'nome': 'Cleber',
     'idade': 22,
-    'cidade': 'São Paulo'
+    'cidade': 'São Paulo'               
     }
     j = {'data0': data,
          'data1': data1,
